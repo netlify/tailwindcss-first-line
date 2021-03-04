@@ -5,13 +5,13 @@ This Tailwind plugin implements the [CSS :first-line pseudo-element](https://dev
 ## Installation
 
 ```bash
-npm install tailwindcss-first-line
+npm install --save-dev tailwindcss-first-line
 ```
 
 or
 
 ```bash
-yarn add tailwindcss-first-line
+yarn add -D tailwindcss-first-line
 ```
 
 ## Usage
