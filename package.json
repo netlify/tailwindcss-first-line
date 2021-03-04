@@ -1,0 +1,30 @@
+{
+  "name": "@netlify/tailwindcss-first-line",
+  "version": "1.0.0",
+  "description": "Tailwind plugin for the :first-line CSS pseudo-element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netlify/tailwindcss-first-line.git"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.0.3"
+  },
+  "author": "Netlify",
+  "contributors": [
+    "Charlie Gerard <charlie@netlify.com> (https://charliegerard.dev)"
+  ],
+  "bugs": {
+    "url": "https://github.com/netlify/tailwindcss-first-line/issues"
+  },
+  "homepage": "https://github.com/netlify/tailwindcss-first-line#readme",
+  "keywords": [
+    "CSS",
+    "netlify",
+    "Tailwind"
+  ],
+  "license": "MIT"
+}
