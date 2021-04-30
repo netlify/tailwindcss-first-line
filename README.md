@@ -5,13 +5,13 @@ This Tailwind plugin implements the [CSS :first-line pseudo-element](https://dev
 ## Installation
 
 ```bash
-npm install --save-dev tailwindcss-first-line
+npm install --save-dev @netlify/tailwindcss-first-line
 ```
 
 or
 
 ```bash
-yarn add -D tailwindcss-first-line
+yarn add -D @netlify/tailwindcss-first-line
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ yarn add -D tailwindcss-first-line
 module.exports = {
     ...
     plugins: [
-        require('tailwindcss-first-line'),
+        require('@netlify/tailwindcss-first-line'),
         ...
     ]
 }
